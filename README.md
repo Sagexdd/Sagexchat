@@ -1,12 +1,12 @@
-### 🌷𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑🌷
+### SAGE
 
 <!--
-**itzshukla/itzshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sagexdd/Sagexchat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/itzshukla/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/sagexdd/count.svg" />
 </p>
 
 <p align="center">
