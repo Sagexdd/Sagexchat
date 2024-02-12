@@ -6,7 +6,7 @@
             "required": true
         },        
         "MONGO_URL": {
-            "description": "mongodb+srv://deoxinesports:deoxinesports@cluster0.8rld6zg.mongodb.net/?retryWrites=true&w=majority",
+            "description": "ur mongo database url",
             "required": true
         },
         "BOT_USERNAME": {
@@ -27,15 +27,15 @@
         },
         "SUPPORT_GRP": {
             "description": "Your Support Group without @",
-            "required": false
+            "required": true
         },
         "STKR": {
             "description": "Sticker for start ",
-            "required": true
+            "required" false
         },
         "START_IMG": {
             "description": "Start Image For Bot.",
-            "required": false
+            "required": true
         },
         
         "API_ID": {
