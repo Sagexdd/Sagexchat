@@ -1,12 +1,12 @@
 {
-    "name":" 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐂𝐇𝐀𝐓𝐁𝐎𝐓",    
+    "name":" sᴀɢᴇ x ᴄʜᴀᴛ ",    
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
             "required": true
         },        
         "MONGO_URL": {
-            "description": "mongo db url here",
+            "description": "mongodb+srv://deoxinesports:deoxinesports@cluster0.8rld6zg.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "BOT_USERNAME": {
